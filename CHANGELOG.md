@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.8.2](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.2) (2021-01-02)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.1...v1.8.2)
+
+**Merged pull requests:**
+
+- chore: bump ubuntu from 18.04 to 20.04 [\#1](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/1) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [v1.8.1](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.1) (2021-01-02)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v0.0.1...v1.8.1)
+
 ## [v0.0.1](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v0.0.1) (2021-01-02)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8...v0.0.1)
