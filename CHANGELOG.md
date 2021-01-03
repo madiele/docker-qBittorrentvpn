@@ -1,5 +1,21 @@
 # Changelog
 
+## [v1.8.4](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.4) (2021-01-03)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.3...v1.8.4)
+
+**Merged pull requests:**
+
+- ci: nightly qbittorrent tagged version wasn't multi architecture [\#6](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/6) ([chrisjohnson00](https://github.com/chrisjohnson00))
+
+## [v1.8.3](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.3) (2021-01-03)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.2...v1.8.3)
+
+**Merged pull requests:**
+
+- ci: tagging the nightly build with the qbittorrent version number [\#5](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/5) ([chrisjohnson00](https://github.com/chrisjohnson00))
+
 ## [v1.8.2](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.2) (2021-01-02)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.1...v1.8.2)
