@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.8.5](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.5) (2021-01-05)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.4...v1.8.5)
+
 ## [v1.8.4](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.4) (2021-01-03)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.3...v1.8.4)
