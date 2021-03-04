@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.8.7](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.7) (2021-03-04)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.6...v1.8.7)
+
+**Merged pull requests:**
+
+- chore: bump WyriHaximus/github-action-get-previous-tag from 1.0.0 to v1.0.1 [\#7](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/7) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.8.6](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.6) (2021-02-28)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.5...v1.8.6)
