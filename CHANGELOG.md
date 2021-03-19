@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.8.8](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.8) (2021-03-19)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.7...v1.8.8)
+
+**Merged pull requests:**
+
+- chore: bump mathieudutour/github-tag-action from v5 to v5.3 [\#13](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/13) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.8.7](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.7) (2021-03-04)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.6...v1.8.7)
