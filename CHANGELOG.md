@@ -1,5 +1,21 @@
 # Changelog
 
+## [v1.8.10](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.10) (2021-04-01)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.9...v1.8.10)
+
+**Merged pull requests:**
+
+- chore: bump charmixer/auto-changelog-action from v1.1 to v1.2 [\#8](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/8) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [v1.8.9](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.9) (2021-04-01)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.8...v1.8.9)
+
+**Merged pull requests:**
+
+- chore: bump wagoid/commitlint-github-action from v3.0.1 to v3.0.6 [\#12](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/12) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.8.8](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.8) (2021-03-19)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.7...v1.8.8)
