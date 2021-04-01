@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.8.11](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.11) (2021-04-01)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.10...v1.8.11)
+
+**Fixed bugs:**
+
+- fix: fix regex for fetching version [\#14](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/14) ([chrisjohnson00](https://github.com/chrisjohnson00))
+
 ## [v1.8.10](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.10) (2021-04-01)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.9...v1.8.10)
