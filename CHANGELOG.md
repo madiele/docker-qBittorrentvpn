@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.8.12](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.12) (2021-04-02)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.11...v1.8.12)
+
+**Merged pull requests:**
+
+- ci: fixing nightly workflow [\#15](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/15) ([chrisjohnson00](https://github.com/chrisjohnson00))
+
 ## [v1.8.11](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.11) (2021-04-01)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.10...v1.8.11)
