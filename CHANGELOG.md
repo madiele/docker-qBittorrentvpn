@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.8.13](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.13) (2021-05-14)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.12...v1.8.13)
+
+**Merged pull requests:**
+
+- chore: bump wagoid/commitlint-github-action from 3.0.6 to 3.1.3 [\#32](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/32) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.8.12](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.12) (2021-04-02)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.11...v1.8.12)
