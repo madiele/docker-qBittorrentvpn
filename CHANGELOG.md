@@ -1,5 +1,17 @@
 # Changelog
 
+## [v1.9.0](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.0) (2021-07-22)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.13...v1.9.0)
+
+**Implemented enhancements:**
+
+- feat: adding Tailslide's restart logic and PIA integration [\#37](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/37) ([chrisjohnson00](https://github.com/chrisjohnson00))
+
+**Merged pull requests:**
+
+- ci: skip release on just workflow change [\#33](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/33) ([chrisjohnson00](https://github.com/chrisjohnson00))
+
 ## [v1.8.13](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.8.13) (2021-05-14)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.12...v1.8.13)
