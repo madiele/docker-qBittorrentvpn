@@ -1,5 +1,26 @@
 # Changelog
 
+## [Unreleased](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/HEAD)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.1...HEAD)
+
+**Closed issues:**
+
+- Connection Reset / qbittorrent-nox: error while loading shared libraries: libQt5Core.so.5: cannot open shared object file: No such file or directory [\#46](https://github.com/chrisjohnson00/docker-qBittorrentvpn/issues/46)
+
+## [v1.9.1](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.1) (2021-10-15)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.0...v1.9.1)
+
+**Fixed bugs:**
+
+- fix: synology kernel issue fix for issue-46 [\#48](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/48) ([chrisjohnson00](https://github.com/chrisjohnson00))
+
+**Closed issues:**
+
+- Connection listening port not opened in firewall [\#42](https://github.com/chrisjohnson00/docker-qBittorrentvpn/issues/42)
+- Builds after 4.3.2 do not connect properly to trackers [\#36](https://github.com/chrisjohnson00/docker-qBittorrentvpn/issues/36)
+
 ## [v1.9.0](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.0) (2021-07-22)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.8.13...v1.9.0)
