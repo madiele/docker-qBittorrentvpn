@@ -1,12 +1,34 @@
 # Changelog
 
-## [Unreleased](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/HEAD)
+## [v1.9.3](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.3) (2021-11-27)
 
-[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.1...HEAD)
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.2...v1.9.3)
+
+**Closed issues:**
+
+- Not accessible from public IP / DDNS [\#43](https://github.com/chrisjohnson00/docker-qBittorrentvpn/issues/43)
+
+**Merged pull requests:**
+
+- chore: bump mathieudutour/github-tag-action from 5.6 to 6.0 [\#51](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/51) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore: bump actions/cache from 2.1.6 to 2.1.7 [\#50](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/50) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore: bump JulienKode/pull-request-name-linter-action from 0.2.0 to 0.4.0 [\#49](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/49) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore: bump charmixer/auto-changelog-action from 1.2 to 1.4 [\#31](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/31) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore: bump WyriHaximus/github-action-get-previous-tag from 1.0.1 to 1.1 [\#30](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/30) ([dependabot[bot]](https://github.com/apps/dependabot))
+
+## [v1.9.2](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.2) (2021-10-16)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.1...v1.9.2)
 
 **Closed issues:**
 
 - Connection Reset / qbittorrent-nox: error while loading shared libraries: libQt5Core.so.5: cannot open shared object file: No such file or directory [\#46](https://github.com/chrisjohnson00/docker-qBittorrentvpn/issues/46)
+
+**Merged pull requests:**
+
+- chore: bump wagoid/commitlint-github-action from 3.1.3 to 4.1.9 [\#47](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/47) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore: bump mathieudutour/github-tag-action from 5.3 to 5.6 [\#40](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/40) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore: bump actions/cache from 2.1.4 to 2.1.6 [\#35](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/35) ([dependabot[bot]](https://github.com/apps/dependabot))
 
 ## [v1.9.1](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.1) (2021-10-15)
 
