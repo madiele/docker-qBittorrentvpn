@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.9.8](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.8) (2024-03-03)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.7...v1.9.8)
+
+**Merged pull requests:**
+
+- chore: bump docker/login-action from 1 to 3 [\#102](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/102) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore: bump actions/cache from 3.3.2 to 4.0.1 [\#99](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/99) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.9.7](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.7) (2024-03-03)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.6...v1.9.7)
