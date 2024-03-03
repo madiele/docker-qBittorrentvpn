@@ -1,5 +1,23 @@
 # Changelog
 
+## [v1.9.5](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.5) (2024-03-03)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.4...v1.9.5)
+
+**Closed issues:**
+
+- Manifest for Kubernetes [\#98](https://github.com/chrisjohnson00/docker-qBittorrentvpn/issues/98)
+- can't open the web ui in portainer [\#84](https://github.com/chrisjohnson00/docker-qBittorrentvpn/issues/84)
+- Upgrade Qbt source to 4.4 branch [\#58](https://github.com/chrisjohnson00/docker-qBittorrentvpn/issues/58)
+
+**Merged pull requests:**
+
+- chore: bump wagoid/commitlint-github-action from 4.1.9 to 5.4.5 [\#97](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/97) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore: bump actions/checkout from 2 to 4 [\#95](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/95) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore: bump docker/build-push-action from 2 to 5 [\#94](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/94) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore: bump docker/setup-buildx-action from 1 to 3 [\#93](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/93) ([dependabot[bot]](https://github.com/apps/dependabot))
+- chore: bump JulienKode/pull-request-name-linter-action from 0.4.0 to 0.5.0 [\#52](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/52) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.9.4](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.4) (2023-12-15)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.3...v1.9.4)
