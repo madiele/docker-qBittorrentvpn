@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.9.7](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.7) (2024-03-03)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.6...v1.9.7)
+
+**Merged pull requests:**
+
+- chore: bump karancode/yamllint-github-action from 2.0.0 to 2.1.1 [\#101](https://github.com/chrisjohnson00/docker-qBittorrentvpn/pull/101) ([dependabot[bot]](https://github.com/apps/dependabot))
+
 ## [v1.9.6](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.6) (2024-03-03)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.5...v1.9.6)
