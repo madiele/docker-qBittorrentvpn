@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.9.6](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.6) (2024-03-03)
+
+[Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.5...v1.9.6)
+
 ## [v1.9.5](https://github.com/chrisjohnson00/docker-qBittorrentvpn/tree/v1.9.5) (2024-03-03)
 
 [Full Changelog](https://github.com/chrisjohnson00/docker-qBittorrentvpn/compare/v1.9.4...v1.9.5)
