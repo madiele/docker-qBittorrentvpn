@@ -12,7 +12,7 @@ What you get from this that you don't get from the original fork is:
  - Nightly builds which push latest tags and for those of you that want specific versions, version tags!
 
 What you don't get:
- - I use this for stuff, pretty much for fun, so I will provide support on my time, when I feel like it (wife allowing).
+ - I do NOT use this anymore, but I will provide support on my time, when I feel like it (wife allowing).
    That said... file an issue and I'll help, if/when I can.  I'll be blunt and tell you to bugger off if I can't or don't
    want to help you!
 
